@@ -13,46 +13,14 @@ h2 {
 p {
 	margin-top: 1px;
 	width: 95%;
-	font-family: 'Trade Winds';
+	font-family: 'Lato', sans-serif;
 	font-size: 20px;
 	margin-left: 1.66%;
 	border-bottom: 1px solid #c8c9c7;
 	padding-bottom: 15px;
 }
 
-.image {
-    height: 300px;
-    width: 30%;
-    float: left;
-    margin: 1.66%;
-    background-size: cover;
-    background-position: center center;
-}
-
-.image1 {
-	background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/88122405_646336052859841_262603525415163140_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=LK-j-mHuXI4AX--UjwU&oh=5fda4d5efe4df1796bcce60b3059c3b3&oe=5E968430);
-}
-
-.image2 {
-	background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/84843427_542142826396269_1460467023488955183_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=9TZsNIXxDBgAX9rEUva&oh=35c6ea106779a1456f4717e8270ef227&oe=5E8D2B5E);
-}
-
-.image3 {
-	background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81552796_797577974044083_1945920921422635648_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=jeKEPll6GEEAX_zgpGu&oh=3e4beae7c23a4c85e56a46e35eb23444&oe=5E8E8210);
-}
-
-.image4 {
-	background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/83627185_2708657442586517_5448800997867797263_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=HXNVUkAprw4AX93a7yZ&oh=2e65ecc5ea2a7d6ea108dc2f1e3edd4a&oe=5E86B4D1);
-}
-
-.image5 {
-	background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/82338176_647785599326291_7043912374959078092_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=X-_sFO_wgmYAX_XdQCz&oh=ee441f8fc484f1e1c7739635ef4abe3b&oe=5E8D6664);
-}
-
-.image6 {
-	background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/81275825_189726218892386_806091503217677355_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=zfSD6z89BTEAX__YcQR&oh=cb6b3cfa9040122330aad92e34a15029&oe=5E86AF05);
-}
-
-.image7 {
-	background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/81809433_810593922747232_538528142888726995_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=rWHlHBH6s-IAX9B2px7&oh=b40f7be38761f293c3a1c8cc41394e04&oe=5E87AD72);
+nav {
+	font-family: 'Lato', sans-serif;
+	background: rgba(255,255,255,.9);
 }
