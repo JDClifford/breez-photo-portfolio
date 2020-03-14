@@ -1,5 +1,4 @@
 body {
-	background-image: url("landingpage.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 120%;
@@ -11,8 +10,6 @@ h2 {
 	border-color: black;
 	font-size: 40px;
 	margin-left: 1.66%;
-	background: rgba(243, 200, 243, 0.9);
-	border-radius: 25px;
 }
 
 p {
@@ -23,8 +20,6 @@ p {
 	margin-left: 1.66%;
 	border-bottom: 1px solid black;
 	padding-bottom: 15px;
-	background: rgba(243, 200, 243, 0.9);
-	border-radius: 25px;
 }
 
 nav {
@@ -34,7 +29,6 @@ nav {
 }
 
 a {
-	background: rgba(243, 200, 243, 0.9);
 	border-radius: 5px;
 	margin-right: 20px;
 }
